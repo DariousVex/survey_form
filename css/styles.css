@@ -1,0 +1,25 @@
+.box {
+	border-style: none;
+	background-color: #D0D6F7;
+	padding: 20px 40px 20px 40px;
+}
+
+.title-box{
+	border-style: none;
+	background-color: #FBAA06;
+	padding: 60px 40px 60px 40px;
+	text-align: center;
+}
+
+.survey-box{
+	border-style: none;
+	padding: 20px 40px 20px 40px;
+	text-align: center;
+}
+
+.footer-box{
+	border-style: none;
+	background-color: #332509;
+	padding: 20px 40px 20px 40px;
+	text-align: center;
+}
